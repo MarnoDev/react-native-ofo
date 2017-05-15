@@ -31,9 +31,10 @@
 ## 四、仓库地址：[react-native-ofo](https://github.com/MarnoDev/react-native-ofo)
 
 >项目运行步骤如下：
->第一步：npm install
->第二步：react-native link
->第三步：react-native run-android（或 run-ios）
+>- 第一步：npm install
+>- 第二步：react-native link
+>- 第三步：react-native run-android（或 run-ios）
+>
 >**理论兼容 Andorid / iOS，但没在 iOS 真机上试过，只在虚拟机上试了下。**
 
 需要特别声明一下，因为用到了 “react-navigation”，在 RN 0.43 上会报错，虽然在 RN 0.44 中已经进行了修复，但是我还没有升级版本。暂时的解决办法可以到这里看下：https://github.com/react-community/react-navigation/issues/923
